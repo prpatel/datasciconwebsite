@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="107" column="134" lean-forward="false" selection-start-line="107" selection-start-column="134" selection-end-line="107" selection-end-column="134" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -109,7 +109,6 @@
       <find>DataSciCon.Tec</find>
       <find>cfp-</find>
       <find>cfp-conten</find>
-      <find>register</find>
       <find>registr</find>
       <find>team</find>
       <find>featuredContent</find>
@@ -120,6 +119,7 @@
       <find>cfp.</find>
       <find>A serious conference</find>
       <find>bring the</find>
+      <find>register</find>
     </findStrings>
     <replaceStrings>
       <replace>DataSciCon</replace>
@@ -1008,12 +1008,12 @@
       <workItem from="1490629748592" duration="578000" />
       <workItem from="1491488350320" duration="64000" />
       <workItem from="1494091469697" duration="6773000" />
-      <workItem from="1494184787984" duration="2414000" />
+      <workItem from="1494184787984" duration="3739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81459000" />
+    <option name="totallyTimeSpent" value="82784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="6" />
@@ -1596,8 +1596,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+        <state relative-caret-position="231">
+          <caret line="107" column="134" lean-forward="false" selection-start-line="107" selection-start-column="134" selection-end-line="107" selection-end-column="134" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
