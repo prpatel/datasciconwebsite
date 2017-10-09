@@ -516,11 +516,13 @@ a:focus {
 }
 
 .schedule-odd {
-  background-color: #efefef;
+  color: #0093cf;
+  background-color: var(--charcoal-grey);
 }
 
 .schedule-even {
-  background-color: white;
+  color: #0093cf;
+  background-color: #dee7de;
 }
 
 .left-text {
@@ -530,3 +532,12 @@ a:focus {
 .yellow {
   background-color: #fac552;
 }
+
+.speaker-name {
+  color: #0093cf;
+}
+
+.bg-primary {
+  background-color: #0093cf;
+}
+/*#0093cf*/
