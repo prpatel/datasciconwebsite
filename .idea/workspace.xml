@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="2597" column="9" lean-forward="false" selection-start-line="2597" selection-start-column="9" selection-end-line="2597" selection-end-column="9" />
+            <state relative-caret-position="376">
+              <caret line="2605" column="0" lean-forward="false" selection-start-line="2607" selection-start-column="10" selection-end-line="2607" selection-end-column="11" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -388,7 +388,6 @@
       <find>cfp.</find>
       <find>A serious conference</find>
       <find>bring the</find>
-      <find>register</find>
       <find>ticket</find>
       <find>soon</find>
       <find>eventbr</find>
@@ -403,6 +402,7 @@
       <find>kirk</find>
       <find>logi</find>
       <find>bever</find>
+      <find>register</find>
     </findStrings>
     <replaceStrings>
       <replace>DataSciCon</replace>
@@ -1269,12 +1269,12 @@
       <workItem from="1506371801667" duration="11775000" />
       <workItem from="1508425601589" duration="1587000" />
       <workItem from="1508435650611" duration="325000" />
-      <workItem from="1508878881984" duration="2827000" />
+      <workItem from="1508878881984" duration="3256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114645000" />
+    <option name="totallyTimeSpent" value="115074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="0" />
@@ -5754,8 +5754,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="2597" column="9" lean-forward="false" selection-start-line="2597" selection-start-column="9" selection-end-line="2597" selection-end-column="9" />
+        <state relative-caret-position="376">
+          <caret line="2605" column="0" lean-forward="false" selection-start-line="2607" selection-start-column="10" selection-end-line="2607" selection-end-column="11" />
           <folding>
             <element signature="n#style#0;n#a#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
