@@ -358,6 +358,24 @@ a:focus {
   width: 100%;
 }
 
+.img-wrap {
+  display: block;
+  width: 100%;
+  height: auto;
+  position: relative;
+  overflow: auto;
+  padding: 0% 0 0 0;
+  margin: 10% 0 0 0;
+  background-color: white;
+  vertical-align: middle;
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
 .Cooper {
   font-family: Cooper;
   padding-top: 20px;
