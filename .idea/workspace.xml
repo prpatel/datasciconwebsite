@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03227dd1-c0e3-4ff3-96fc-ab31f6a9df60" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workshops.html" afterPath="$PROJECT_DIR$/workshops.html" />
     </list>
     <ignored path="website.iws" />
@@ -52,8 +51,8 @@
       <file leaf-file-name="workshops.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/workshops.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="86" column="26" lean-forward="false" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+            <state relative-caret-position="720">
+              <caret line="92" column="66" lean-forward="false" selection-start-line="92" selection-start-column="66" selection-end-line="92" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#pre#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#pre#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -976,12 +975,12 @@
       <workItem from="1508878881984" duration="5838000" />
       <workItem from="1510431283739" duration="1347000" />
       <workItem from="1510678912645" duration="2999000" />
-      <workItem from="1511362261916" duration="822000" />
+      <workItem from="1511362261916" duration="1866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122824000" />
+    <option name="totallyTimeSpent" value="123868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1860" height="1417" extended-state="0" />
@@ -1503,8 +1502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/workshops.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="86" column="26" lean-forward="false" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+        <state relative-caret-position="720">
+          <caret line="92" column="66" lean-forward="false" selection-start-line="92" selection-start-column="66" selection-end-line="92" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#pre#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
