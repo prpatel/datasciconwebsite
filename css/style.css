@@ -569,6 +569,9 @@ a:focus {
 }
 
 .photos-viewer {
-  margin: 10px;
   width: 400px;
+}
+
+.slick-slide {
+  padding: 10px;
 }
