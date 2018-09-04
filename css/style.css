@@ -537,6 +537,12 @@ a:focus {
   height: 275px;
 }
 
+#schedule {
+  padding-top: 0px;
+  background-color: #dee7de;
+  border-bottom: solid 1px #e7e7e7;
+}
+
 .schedule-odd {
   color: #0093cf;
   background-color: var(--charcoal-grey);
@@ -574,4 +580,12 @@ a:focus {
 
 .slick-slide {
   padding: 10px;
+}
+
+.speaker-columns {
+  height: 350px;
+}
+
+.session-title {
+  text-decoration: underline;
 }
