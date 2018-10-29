@@ -589,3 +589,7 @@ a:focus {
 .session-title {
   text-decoration: underline;
 }
+
+.row-centered {
+  text-align: center;
+}
