@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03227dd1-c0e3-4ff3-96fc-ab31f6a9df60" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="website.iws" />
@@ -26,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="641" column="115" selection-start-line="641" selection-start-column="115" selection-end-line="641" selection-end-column="115" />
+            <state relative-caret-position="140">
+              <caret line="826" column="179" selection-start-line="826" selection-start-column="179" selection-end-line="826" selection-end-column="179" />
               <folding>
                 <element signature="e#6601#6624#0" expanded="true" />
                 <element signature="e#7391#7496#0" expanded="true" />
@@ -38,6 +37,7 @@
                 <element signature="e#14861#14868#1" expanded="true" />
                 <element signature="e#16816#16823#1" expanded="true" />
                 <element signature="e#18869#18876#1" expanded="true" />
+                <element signature="e#32521#32545#0" expanded="true" />
                 <element signature="e#57197#57204#1" expanded="true" />
                 <element signature="e#58980#58987#1" expanded="true" />
                 <element signature="e#60915#60922#1" expanded="true" />
@@ -556,12 +556,12 @@
       <workItem from="1542482372471" duration="404000" />
       <workItem from="1543285882893" duration="1513000" />
       <workItem from="1543406283721" duration="3146000" />
-      <workItem from="1543504938379" duration="1711000" />
+      <workItem from="1543504938379" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164587000" />
+    <option name="totallyTimeSpent" value="164788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -946,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="641" column="115" selection-start-line="641" selection-start-column="115" selection-end-line="641" selection-end-column="115" />
+        <state relative-caret-position="140">
+          <caret line="826" column="179" selection-start-line="826" selection-start-column="179" selection-end-line="826" selection-end-column="179" />
           <folding>
             <element signature="e#6601#6624#0" expanded="true" />
             <element signature="e#7391#7496#0" expanded="true" />
@@ -958,6 +958,7 @@
             <element signature="e#14861#14868#1" expanded="true" />
             <element signature="e#16816#16823#1" expanded="true" />
             <element signature="e#18869#18876#1" expanded="true" />
+            <element signature="e#32521#32545#0" expanded="true" />
             <element signature="e#57197#57204#1" expanded="true" />
             <element signature="e#58980#58987#1" expanded="true" />
             <element signature="e#60915#60922#1" expanded="true" />
