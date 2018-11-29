@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03227dd1-c0e3-4ff3-96fc-ab31f6a9df60" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="website.iws" />
@@ -25,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="979" column="143" selection-start-line="979" selection-start-column="143" selection-end-line="979" selection-end-column="143" />
+            <state relative-caret-position="202">
+              <caret line="641" column="115" selection-start-line="641" selection-start-column="115" selection-end-line="641" selection-end-column="115" />
               <folding>
                 <element signature="e#6601#6624#0" expanded="true" />
                 <element signature="e#7391#7496#0" expanded="true" />
@@ -142,7 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>include:</find>
       <find>twitter</find>
       <find>conduct</find>
       <find>home</find>
@@ -172,6 +172,7 @@
       <find>the evolution</find>
       <find>room d</find>
       <find>adwai</find>
+      <find>part i</find>
     </findStrings>
     <replaceStrings>
       <replace>DataSciCon</replace>
@@ -555,12 +556,12 @@
       <workItem from="1542482372471" duration="404000" />
       <workItem from="1543285882893" duration="1513000" />
       <workItem from="1543406283721" duration="3146000" />
-      <workItem from="1543504938379" duration="719000" />
+      <workItem from="1543504938379" duration="1711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163595000" />
+    <option name="totallyTimeSpent" value="164587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -945,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="979" column="143" selection-start-line="979" selection-start-column="143" selection-end-line="979" selection-end-column="143" />
+        <state relative-caret-position="202">
+          <caret line="641" column="115" selection-start-line="641" selection-start-column="115" selection-end-line="641" selection-end-column="115" />
           <folding>
             <element signature="e#6601#6624#0" expanded="true" />
             <element signature="e#7391#7496#0" expanded="true" />
